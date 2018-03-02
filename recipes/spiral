@@ -2,9 +2,4 @@
         :fetcher github
         :files (:defaults
                 "blob.clj"
-                "tools"
-                "parseclj/parseclj.el"
-                "parseclj/parseedn.el"
-                "parseclj/parseclj-parser.el"
-                "parseclj/parseclj-lex.el"
-                "parseclj/parseclj-ast.el"))
+                "tools"))
